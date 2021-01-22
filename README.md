@@ -1,5 +1,9 @@
 # hello-vue
 
+## Sample:
+
+<img src="sample/sample.png" width="60%">.
+
 ## Project setup
 ```
 npm install
